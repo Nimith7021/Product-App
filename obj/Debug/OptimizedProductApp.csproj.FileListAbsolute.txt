@@ -1,0 +1,7 @@
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimizedProductApp\bin\Debug\OptimizedProductApp.exe.config
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimizedProductApp\bin\Debug\OptimizedProductApp.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimizedProductApp\bin\Debug\OptimizedProductApp.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimizedProductApp\obj\Debug\OptimizedProductApp.csproj.AssemblyReference.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimizedProductApp\obj\Debug\OptimizedProductApp.csproj.CoreCompileInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimizedProductApp\obj\Debug\OptimizedProductApp.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimizedProductApp\obj\Debug\OptimizedProductApp.pdb
